@@ -1,2 +1,2 @@
 # Mock-Repo
-Independent learning/testing repo!
+Independent learning on git branches and merge conflicts!
